@@ -48,7 +48,7 @@ Beyond the final outcomes and results, there were other key insights that were r
   - Jefferson: 10.5% (38,855)
   - Denver: 82.8% (306,055)
   - Arapahoe: 6.7% (24,801)
-- Largest County Turnout: Denver
+- Largest County Turnout: Denver.
 
 - Candidate Results:
   - Charles Casper Stockham: 23.0% (85,213)
