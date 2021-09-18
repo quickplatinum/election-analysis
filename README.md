@@ -61,4 +61,6 @@ Attached Below is a screenshot of the election_results.txt file whcih inbcludes 
   - Percentage: 73.8%
 
 ## Election Committee Statement
+![for loop](https://user-images.githubusercontent.com/88692025/133907095-ac25d720-2b6e-4a15-8d0a-38f28e100f88.PNG)
+- The above for loop is the key that makes this code so verstaille as it collects the data needed from any candidate combination and is future proofed if more counties are added in the future.
 The script that is currenlty written is a great way to analyze any election data in the future, the script is programmed to handle any amount of votes and CSV data lines. As such if more counties and votes are added as well as candidates, the analysis and result system will be easy and clear. Therefore, it would be a great businness move fo the commision to use this code going forward as it is clear, verstaille and easily changed.
