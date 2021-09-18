@@ -39,7 +39,7 @@ Beyond the final outcomes and results, there were other key insights that were r
 3. Determine which county had the largest turnout.
 
 ## Completed CHallenge Summary
-Attached Below is a screenshot of the election_results.txt file whcih inbcludes a snapshot of all results and additonal requests.
+- Attached is a screenshot of the election_results.txt file whcih inbcludes a snapshot of all results and additonal requests.
 ![election results](https://user-images.githubusercontent.com/88692025/133906721-cc876e2f-f135-46ab-b5ee-fa7c276521ec.PNG)
 
 - Total Votes: 369,711
